@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
   <!-- Plugin name -->
-  <string id="30001">Latest JRE episodes... wait 30s</string>
-  <string id="30000">All JRE episodes</string>
+  <string id="30001">Latest JRE episode</string>
+  <string id="30000">All JRE episodes...</string>
 </strings>
